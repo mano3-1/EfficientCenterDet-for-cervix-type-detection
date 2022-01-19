@@ -1,4 +1,4 @@
 # EfficientCenterDet-A-novel-Self-supervision-boosted-RoI-proposal-networkfor-cervix-type-detection
 Cervical  cancer  is  the  fourth  most  common  form  of  cancer  in  women  and  the  fourth  most  commoncause of death from cancer in women.  Developing countries account for 70% of the cases and 90% of the fatalities.Nowadays Computational methods can be used   to classify the cervix type,  which wouldbe minimally invasive and does not require lab testing.  As Artificial intelligent algorithms are at its peakdevelopment, Our method uses deep learning and object detection techniques for processing and classifying the cervigram types. 
 
-## The work got published in International Journal of Imaging Systems and Technology. Find the published paper ![here][https://onlinelibrary.wiley.com/doi/10.1002/ima.22696]
+## The work got published in International Journal of Imaging Systems and Technology. Find the published paper ![https://onlinelibrary.wiley.com/doi/10.1002/ima.22696][here]
